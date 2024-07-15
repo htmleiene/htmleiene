@@ -1,4 +1,4 @@
-# ooi, aqui é Leiene Neves 👋
+# Oii!! Eu sou a Leiene Neves 👋
 
 ## About me:
 - 🌎 Moro no Brasil.
