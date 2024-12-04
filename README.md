@@ -13,7 +13,10 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+- **Frameworks:**
+  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+
 - **Tools:**
   ![UiPath](https://img.shields.io/badge/-UiPath-FAA519?style=flat&logo=uipath&logoColor=white)
   ![Automation Anywhere](https://img.shields.io/badge/-Automation%20Anywhere-FF6C37?style=flat&logo=automation-anywhere&logoColor=white)
