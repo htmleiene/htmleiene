@@ -2,8 +2,9 @@
 
 ## About me:
 - 🌎 Moro no Brasil.
-- 👩‍💻 Trabalho como Desenvolvedora RPA (Automação Robótica de Processos) em plataformas no/low-code.
+- 👩‍💻 Trabalho como Desenvolvedora RPA (Automação Robótica de Processos).
 - 🎓 Formada em Administração pela Universidade Federal de Sergipe (UFS).
+- 👾 MBA em Engenharia de Software na USP/Esalq.
 - 🤖 Apaixonada por aumentar a eficiência dos processos e resolver problemas.
 
 ## Skills
